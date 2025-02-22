@@ -1,1 +1,1 @@
-# GFG_solutions
+# GFG Solutions
