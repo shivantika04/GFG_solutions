@@ -1,0 +1,9 @@
+class Solution:
+    def passedBy(self, a, b):
+        
+        arr=[]
+        
+        arr.append(a+1)
+        arr.append(b+2)
+        
+        return arr
